@@ -1,0 +1,34 @@
+# Java compiled files
+*.class
+
+# Maven
+target/
+
+# VS Code
+.vscode/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Logs
+*.log
+
+# Environment / secrets
+.env
+*.env
+
+# Firebase private credentials
+firebase-adminsdk*.json
+
+# Backup/security codes
+Backup-codes-*.txt
+
+# OS files
+.DS_Store
+Thumbs.db
